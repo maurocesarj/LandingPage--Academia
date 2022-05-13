@@ -18,5 +18,5 @@ https://www.youtube.com/watch?v=gqrLT6bfLwY&t=675s
 
 
 <p> 
-    <img width="900" height="500" src="src/gif6.gif" >
+    <img width="900" height="500" url="https://raw.githubusercontent.com/maurocesarj/landingPageAcademiaHtmlCss/main/src/gif6.gif" >
 </p>
