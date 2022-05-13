@@ -6,17 +6,11 @@
 
 </div>
 
-### Vídeo ensinando detalhadamente como criar este projeto:
-https://www.youtube.com/watch?v=gqrLT6bfLwY&t=675s
-
-
 ### Este projeto é a criação de uma landingpage ficticia para uma academia.
 
-### Nele foram abordados diversos conceitos de HTML e CSS, questões sobre hover, posicionamento, centralização de itens, inclusão de imagens no background entre outros.
-
-### Permite se ter uma ideia sobre a criação de landingpages para aplicar em projetos reais.
+### Nele foram abordados diversos conceitos de HTML e CSS, questões sobre hover, posicionamento, centralização de itens, inclusão de imagens no background entre outros
 
 
 <p> 
-    <img width="900" height="500" url="https://raw.githubusercontent.com/maurocesarj/landingPageAcademiaHtmlCss/main/src/gif6.gif" >
+    <img width="900" height="500" url="https://github.com/CrislaineLuana/landingPageAcademiaHtmlCss/raw/main/src/gif6.gif" >
 </p>
